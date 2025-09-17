@@ -6,7 +6,7 @@ This repository contains all materials, data, scripts, and documentation for a r
 
 - **data/**: Contains all survey data used in the project.
   - **raw/**: Original, unprocessed survey data files.
-	- **processed/**: Cleaned and processed data ready for analysis.
+  - **processed/**: Cleaned and processed data ready for analysis.
 - **scripts/**: Python scripts for data cleaning and processing.
 - **interviews/**: Survey/interview questions and participant responses.
 - **images/**: Visual assets for reports and presentations.
