@@ -30,4 +30,27 @@ This repository contains all materials, data, scripts, and documentation for a r
 
 ## Project Purpose
 
+
 The aim of this project is to investigate the adoption, perceptions, and outcomes of generative AI tools among participants. Data was collected via surveys and interviews, then processed and analyzed to draw research conclusions.
+
+## Navigating the Repository
+
+- Start with the `README.md` for an overview.
+- Explore the `data/` folder for all datasets (raw and processed).
+- Use the `scripts/` folder for any data processing or cleaning tasks.
+- Review `interviews/` for qualitative data and survey materials.
+- Check `images/` for figures used in reports or presentations.
+- Refer to `references/` for background literature.
+- See `old_versions/` for previous document drafts.
+
+## Contributing
+
+We welcome contributions from collaborators! To contribute:
+
+1. **Fork the repository** and create a new branch for your feature or fix.
+2. **Follow the existing folder structure** and naming conventions.
+3. **Document your code** and add comments where necessary.
+4. **Update the README** if your changes affect project structure or usage.
+5. **Submit a pull request** with a clear description of your changes and the motivation behind them.
+
+For questions or collaboration, please contact the project maintainer.
